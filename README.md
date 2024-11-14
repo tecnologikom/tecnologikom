@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @tecnologikom
-- 👀 I’m interested in Botany, Foods,gastronomy, Games, data analysis, taxonomic identification of plants, cooking. Botanica, Alimentos, Juegos, análisis de datos, Identificación taxonómica de plantas, cocina.
+- 👀 I’m interested in Botany, Foods, Games, data analysis, taxonomic identification of plants, cooking. Botanica, Alimentos, Juegos, análisis de datos, Identificación taxonómica de plantas, cocina.
 - 🌱 I’m currently learning Phyton
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
